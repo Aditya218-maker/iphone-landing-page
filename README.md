@@ -15,13 +15,7 @@ A responsive landing page for iPhone, built with **HTML** and **CSS**.
 - CSS3
 
 ## Preview
+<img width="3360" height="1850" alt="image" src="https://github.com/user-attachments/assets/bd966f94-8b1a-40f1-bbb1-a3c82d63cfb2" />
 
-![Preview](screenshot.png)  
-*(Optional: add a screenshot of your landing page in the repo for better visualization)*
 
-## Usage
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Aditya218-maker/iphone-landing-page.git
 
