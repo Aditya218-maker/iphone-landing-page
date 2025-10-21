@@ -1,10 +1,9 @@
 # iPhone Landing Page
 
-A responsive landing page for iPhone, built with **HTML** and **CSS**.
+A landing page for iPhone, built with **HTML** and **CSS**.
 
 ## Features
 
-- Fully responsive layout
 - Clean and modern design
 - Easy to customize
 - Includes sections for header, features, and footer
